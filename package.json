@@ -1,0 +1,21 @@
+{
+  "name": "my_portfolio",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/starsagitarian/my_portfolio.git"
+  },
+  "keywords": [],
+  "author": "",
+  "bugs": {
+    "url": "https://github.com/starsagitarian/my_portfolio/issues"
+  },
+  "homepage": "https://github.com/starsagitarian/my_portfolio#readme",
+  "private": true,
+  "workspaces": [
+    "apps/*",
+    "packages/*"
+  ]
+}
